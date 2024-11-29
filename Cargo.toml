@@ -1,5 +1,5 @@
 [package]
-name = "string-literal"
+name = "the-string-macro"
 version = "1.0.0"
 description = "The missing `string!` macro to construct `String` value from string literal."
 license = "MIT"

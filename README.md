@@ -14,11 +14,11 @@ It's time to finish this...
 ## Usage
 
 ```toml
-string-literal = "1"
+the-string-macro = "1"
 ```
 
 ```rust
-use string_literal::string;
+use the_string_macro::string;
 
 let s = string!("foo");
 let props = vec![
