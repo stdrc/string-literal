@@ -1,4 +1,4 @@
-# string-literal
+# the-string-macro
 
 We all have been tired arguing about which of the following is the best practice:
 
