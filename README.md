@@ -13,7 +13,13 @@ It's time to finish this...
 
 ## Usage
 
+```toml
+string-literal = "1"
+```
+
 ```rust
+use string_literal::string;
+
 let s = string!("foo");
 let props = vec![
     Foo {
