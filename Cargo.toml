@@ -2,6 +2,7 @@
 name = "string-literal"
 version = "1.0.0"
 description = "The missing `string!` macro to construct `String` value from string literal."
+license = "MIT"
 edition = "2021"
 
 [dependencies]
