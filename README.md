@@ -10,3 +10,15 @@ format!("foo")
 ```
 
 It's time to finish this...
+
+## Usage
+
+```rust
+let s = string!("foo");
+let props = vec![
+    Foo {
+        key: string!("key1"),
+        value: string!("value1"),
+    }
+];
+```
